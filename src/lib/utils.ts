@@ -41,7 +41,6 @@ export function constructMetadata({
       images: [image],
     },
     icons,
-    // metadataBase: new URL(""),
+    metadataBase: new URL("https://case-customizes.com"),
   };
 }
-
