@@ -173,7 +173,7 @@ const DesignPreview = ({ configuration }: { configuration: Configuration }) => {
                   size: "lg",
                   className: "px-4 sm:px-6 lg:px-8",
                 })}
-                href="/thank-you"
+                href="/thank-you-demo"
               >
                 Check out <ArrowRight className="h-4 w-4 ml-1.5 inline" />
               </Link>
