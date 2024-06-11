@@ -23,6 +23,7 @@ const STEPS = [
   },
 ];
 
+
 const Steps = () => {
   const pathname = usePathname();
 

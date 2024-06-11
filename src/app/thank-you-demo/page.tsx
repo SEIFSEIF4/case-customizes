@@ -62,11 +62,11 @@ const ThankYouDemo = () => {
 
   return (
     <div className="bg-white">
-      <Alert className="w-[50dvw] mx-auto mt-3">
+      <Alert className="max-w-2xl  mx-auto mt-5">
         <Terminal className="h-4 w-4" />
 
         <AlertDescription>
-          This is a Demo with static data. The order is not real and no payment
+          This Page is a Demo with static data. The order is not real and no payment
           was made.
         </AlertDescription>
       </Alert>
